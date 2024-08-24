@@ -1,0 +1,5 @@
+C:\Users\Laura Santos\OneDrive\Área de Trabalho\Codigo_c#\Projeto_Geladeira\GeladeiraOO\MeuProjetoAPI\obj\Debug\net6.0\MeuProjetoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Santos\OneDrive\Área de Trabalho\Codigo_c#\Projeto_Geladeira\GeladeiraOO\MeuProjetoAPI\obj\Debug\net6.0\MeuProjetoAPI.AssemblyInfoInputs.cache
+C:\Users\Laura Santos\OneDrive\Área de Trabalho\Codigo_c#\Projeto_Geladeira\GeladeiraOO\MeuProjetoAPI\obj\Debug\net6.0\MeuProjetoAPI.AssemblyInfo.cs
+C:\Users\Laura Santos\OneDrive\Área de Trabalho\Codigo_c#\Projeto_Geladeira\GeladeiraOO\MeuProjetoAPI\obj\Debug\net6.0\MeuProjetoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Santos\OneDrive\Área de Trabalho\Codigo_c#\Projeto_Geladeira\GeladeiraOO\MeuProjetoAPI\obj\Debug\net6.0\MeuProjetoAPI.MvcApplicationPartsAssemblyInfo.cache
